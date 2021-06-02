@@ -1,0 +1,59 @@
+hmlt, body{
+    margin:0px;
+    background-color: rgb(121, 53, 247);
+}
+
+
+.titulo{
+    text-align:center;
+    background-color: black;
+    color:white;
+    padding: 20px;
+    font-size:29px;
+}
+
+.btn-danger {
+    color: #fff;
+    background-color: #eb0ea8;
+    border-color: #17e8f7;
+    box-shadow: unset;
+  }
+
+
+.btn-primary {
+    color: #fff;
+    background-color: #210553;
+    border-color: #17e8f7;
+    box-shadow: unset;
+  }
+
+.btn-accent {
+    color: #fff;
+    background-color: #10d7f1;
+    border-color: #10d7f1;
+    box-shadow: unset;
+  }
+  .btn-accent:hover {
+    color: #fff;
+    background-color: #4247aa;
+    border-color: #3e43a0;
+  }
+
+.cartas{
+    margin-top: 1rem;
+    position: relative;
+    width:132px;
+    left: 100px;
+    margin-left: -50px;
+
+}
+
+.titulo1{
+    color: #fff;
+    font-weight: 600;
+    font-size:24px;
+}
+
+#computadora-cartas, #jugador-cartas{
+    height: 32vh;
+}
